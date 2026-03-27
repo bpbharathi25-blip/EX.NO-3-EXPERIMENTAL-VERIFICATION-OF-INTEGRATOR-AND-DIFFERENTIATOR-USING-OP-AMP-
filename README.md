@@ -47,7 +47,6 @@ The integrator is most commonly used in analog computers and ADC and signal-wave
 
 To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
 We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
-![WhatsApp Image 2026-03-27 at 8 47 23 PM](https://github.com/user-attachments/assets/4d9f33bc-2bee-4187-a4f3-518ccef5e357)
 
 
 ## PROCEDURE
@@ -57,12 +56,16 @@ We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore 
 3.	By adjusting the amplitude and frequency knobs of the function generator, appropriate input voltage is applied to the inverting input terminal of the Op- Amp.
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
+![WhatsApp Image 2026-03-27 at 10 18 37 PM](https://github.com/user-attachments/assets/0d03b32b-ae4c-490c-ba50-55efe0b9bd9e)
 
 ## TABULATION
 
 ![WhatsApp Image 2026-03-27 at 8 50 46 PM](https://github.com/user-attachments/assets/69208ec7-0309-400a-a5e5-005cbd730dd0)
 
 ---
+## CALCULATION
+
+![WhatsApp Image 2026-03-27 at 8 47 23 PM](https://github.com/user-attachments/assets/4d9f33bc-2bee-4187-a4f3-518ccef5e357)
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
@@ -133,9 +136,9 @@ Now choose fb = 10fa = 1 / 2πR1C1 Therefore, R1 = 1 / 2π(103)(10-7)
 = 1.59KΩ Since RFCF = R1C1
 We get, CF = (1.59*103*10-7) / 15.9*103
 = 0.01μF
-![WhatsApp Image 2026-03-27 at 8 51 38 PM](https://github.com/user-attachments/assets/9de93e36-c5e7-40ac-85bd-331bce6b2957)
-![WhatsApp Image 2026-03-27 at 8 52 03 PM](https://github.com/user-attachments/assets/f58b68c8-fa98-4422-be52-fff7777383e7)
+![WhatsApp Image 2026-03-27 at 10 21 19 PM](https://github.com/user-attachments/assets/e95040f7-cf3d-4ac3-ad57-1ddfbac6af20)
 
+![WhatsApp Image 2026-03-27 at 10 25 09 PM](https://github.com/user-attachments/assets/c11086cc-07e3-4de1-aeef-eddf2e058908)
 
 ## PROCEDURE
 
@@ -147,8 +150,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 ## TABULATION
 ![WhatsApp Image 2026-03-27 at 8 29 53 PM](https://github.com/user-attachments/assets/882d23d1-1b61-4c84-99bf-251ba82defd7)
 
+## CALCULATION
+![WhatsApp Image 2026-03-27 at 8 51 38 PM](https://github.com/user-attachments/assets/9de93e36-c5e7-40ac-85bd-331bce6b2957)
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2026-03-27 at 8 31 38 PM](https://github.com/user-attachments/assets/d78da06f-1703-4e29-9c75-85ddc9139d49)
+![WhatsApp Image 2026-03-27 at 8 52 03 PM](https://github.com/user-attachments/assets/f58b68c8-fa98-4422-be52-fff7777383e7)
  
  ## RESULT:
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
