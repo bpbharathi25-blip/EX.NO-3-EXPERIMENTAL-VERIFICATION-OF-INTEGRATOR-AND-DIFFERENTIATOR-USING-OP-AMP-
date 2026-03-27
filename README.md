@@ -145,11 +145,11 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
 ## TABULATION
-![WhatsApp Image 2026-03-27 at 8 29 53 PM](https://github.com/user-attachments/assets/fe4b94a1-f9dd-42c0-a81e-fc5c3298474b)
+![WhatsApp Image 2026-03-27 at 8 29 53 PM](https://github.com/user-attachments/assets/882d23d1-1b61-4c84-99bf-251ba82defd7)
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2026-03-27 at 8 31 38 PM](https://github.com/user-attachments/assets/60297724-7d2e-4920-a28b-d67aac7e4bc5)
-
+![WhatsApp Image 2026-03-27 at 8 31 38 PM](https://github.com/user-attachments/assets/d78da06f-1703-4e29-9c75-85ddc9139d49)
+ 
  ## RESULT:
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
  
